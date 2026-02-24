@@ -12,5 +12,5 @@ Sydney Davidson (Founder, Coder)
 
 RadTaiga (Artist, Visual Design)
 
-Alexandra (Musician, Sound Design)
+Alex W (Musician, Sound Design)
 
