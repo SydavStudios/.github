@@ -8,7 +8,7 @@ We are a Queer run company headed by a Bisexual Trans Woman.
 
 As of right now, our team consists of three people who are working on Project: Remembrance:
 
-Sydney Davidson (Founder, Coder)
+Sydney Davidson (Coder, Writer)
 
 RadTaiga (Artist, Visual Design)
 
