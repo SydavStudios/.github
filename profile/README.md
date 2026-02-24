@@ -9,10 +9,13 @@ We are a Queer run company headed by a Bisexual Trans Woman.
 As of right now, our team consists of two people:
 
 Sydney Davidson (Coder, Writer, Designer)
+
 Alex W (Musician, Sound Design, Artist)
 
 Project Remembrance team:
 
 Sydney Davidson
+
 Alex W
+
 RadTaiga (Artist, character design)
