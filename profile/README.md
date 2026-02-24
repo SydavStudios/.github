@@ -6,11 +6,13 @@ Our first game, Project Remembrance, started pre-production on Feb 18th, 2026, w
 
 We are a Queer run company headed by a Bisexual Trans Woman.
 
-As of right now, our team consists of three people who are working on Project: Remembrance:
+As of right now, our team consists of two people:
 
-Sydney Davidson (Coder, Writer)
+Sydney Davidson (Coder, Writer, Designer)
+Alex W (Musician, Sound Design, Artist)
 
-RadTaiga (Artist, Visual Design)
+Project Remembrance team:
 
-Alex W (Musician, Sound Design)
-
+Sydney Davidson
+Alex W
+RadTaiga (Artist, character design)
